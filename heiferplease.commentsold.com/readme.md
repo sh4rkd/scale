@@ -2,9 +2,9 @@ The video extraction request is not possible because the links that are generate
 
 ![1655472485553](https://github.com/sh4rkd/scale/blob/master/heiferplease.commentsold.com/image/readme/1655472485553.png?raw=true)
 
-![1655472499289](image/readme/1655472499289.png)
+![1655472499289](https://github.com/sh4rkd/scale/blob/master/heiferplease.commentsold.com/image/readme/1655472499289.png?raw=true)
 
-![1655472510470](image/readme/1655472510470.png)
+![1655472510470](https://github.com/sh4rkd/scale/blob/master/heiferplease.commentsold.com/image/readme/1655472510470.png?raw=true)
 
 
 
@@ -12,6 +12,6 @@ We wanted to choose to reconstruct the video but there is no way since the neces
 
 The only thing that could be found were video chunks in .ts format with a random time in seconds, with a file which contains all the chunks but the reconstruction by that means is not viable since we do not have the necessary tools for it.
 
-![1655472563202](image/readme/1655472563202.png)
+![1655472563202](https://github.com/sh4rkd/scale/blob/master/heiferplease.commentsold.com/image/readme/1655472563202.png?raw=true)
 
-![1655472570685](image/readme/1655472570685.png)
+![1655472570685](https://github.com/sh4rkd/scale/blob/master/heiferplease.commentsold.com/image/readme/1655472570685.png?raw=true)
