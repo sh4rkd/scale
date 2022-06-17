@@ -1,6 +1,6 @@
 The video extraction request is not possible because the links that are generated are random in each section, so the extraction of the link is not feasible
 
-![1655472485553](image/readme/1655472485553.png)
+![1655472485553](https://github.com/sh4rkd/scale/blob/master/heiferplease.commentsold.com/image/readme/1655472485553.png?raw=true)
 
 ![1655472499289](image/readme/1655472499289.png)
 
